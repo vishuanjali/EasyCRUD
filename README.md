@@ -326,3 +326,4 @@ For issues and questions:
 2. Review the database setup guide
 3. Check application logs for error messages
 4. Verify all prerequisites are installed
+5. done
